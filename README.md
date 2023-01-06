@@ -6,13 +6,21 @@ This project aims to develop a tic-tac-toe game using Flutter. It is a 2-player 
 ![Screenshot_20230106-151053](https://user-images.githubusercontent.com/58336540/210975176-129c1480-797f-48a5-bc64-fa3e782ec9ce.jpg)
 
 
+
+
 ![Screenshot_20230106-151023](https://user-images.githubusercontent.com/58336540/210975275-b3d7a74e-faa3-4cde-84cd-af90387fd0d6.jpg)
+
+
 
 
 ![Screenshot_20221230-164600](https://user-images.githubusercontent.com/58336540/210975337-f681106b-5652-4b95-827d-c7e4d3a9db40.jpg)
 
 
+
+
 ![Screenshot_20230106-151008](https://user-images.githubusercontent.com/58336540/210975386-e97af804-9f93-4f80-9ad9-37e712b2f766.jpg)
+
+
 
 
 
